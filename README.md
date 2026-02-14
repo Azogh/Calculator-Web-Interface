@@ -1,27 +1,52 @@
-# WebCalc
+# 🧮 Calculator Web Interface
 
-**WebCalc** é uma calculadora básica desenvolvida com **HTML**, **CSS**, e **JavaScript**. Este projeto é ideal para quem está aprendendo os fundamentos de programação front-end e deseja entender como criar uma aplicação funcional para cálculos matemáticos simples.
+[![Vanilla JS](https://img.shields.io/badge/Vanilla-JS-f7df1e.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![UI/UX](https://img.shields.io/badge/UI-Minimalist-lightgrey)](#)
 
-## 💻 Preview
+---
 
-Veja a calculadora em ação: [Clique aqui para acessar o preview](https://azogh.github.io/WebCalc/)
+## 📝 Descrição / Description
 
-## ✨ Funcionalidades
+O **Calculator Web Interface** é uma aplicação funcional desenvolvida para consolidar conceitos de manipulação de estados e lógica matemática no Front-end. O projeto simula o funcionamento de uma calculadora física, tratando eventos de teclado e clique para realizar operações aritméticas fundamentais com precisão.
 
-- **Operações básicas**: Adição, subtração, multiplicação e divisão.
-- **Botão "C"**: Limpa o visor e reinicia os cálculos.
-- **Interface intuitiva**: Fácil de usar e amigável.
-- **Responsividade**: Funciona bem em diferentes tamanhos de tela.
-- **Design minimalista**: Focado na simplicidade e funcionalidade.
+> *A functional web calculator focused on clean UI and robust JavaScript logic. Developed to demonstrate event handling, state management, and basic arithmetic processing in the browser.*
 
-## 🔧 Tecnologias Utilizadas
+---
 
-- **HTML5**: Estrutura da aplicação.
-- **CSS3**: Estilização e layout da interface.
-- **JavaScript**: Implementação da lógica de cálculos e interatividade.
+## ✨ Funcionalidades / Features
 
-## 🚀 Como Utilizar
+* **➕ Operações Fundamentais:** Suporte completo para Adição, Subtração, Multiplicação e Divisão.
+* **🧹 Função Clear (C):** Reinicialização instantânea do estado da aplicação e do visor (Reset State).
+* **📱 Design Responsivo:** Interface adaptável (Mobile-friendly) que garante usabilidade em qualquer dispositivo.
+* **🎨 Minimalismo Funcional:** Foco total na experiência do usuário e clareza visual, evitando distrações.
 
-1. **Clone este repositório**:
-   ```bash
-   git clone https://github.com/Azogh/WebCalc.git
+---
+
+## 🛠️ Tecnologias / Tech Stack
+
+* **HTML5:** Estrutura semântica para acessibilidade e organização.
+* **CSS3:** Estilização moderna com foco em feedback visual e responsividade.
+* **JavaScript (ES6+):** Motor lógico de cálculo e gerenciamento dinâmico da interface (DOM).
+
+---
+
+## 💡 Insight Técnico
+
+O desenvolvimento desta interface foca no processamento de sequências de entrada e na conversão de tipos de dados. A lógica foi estruturada para garantir que o fluxo de operações ocorra de forma previsível, tratando a entrada do usuário como um fluxo de dados a ser processado pelo motor aritmético.
+
+---
+
+## 🚀 Como Utilizar / Usage
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/Azogh/calculator-web-interface.git](https://github.com/Azogh/calculator-web-interface.git)
+    ```
+2.  **Acesse a aplicação:**
+    Abra o arquivo `index.html` em qualquer navegador moderno.
+
+---
+
+## 👨‍💻 Autor
+**Andre Gustavo Ozga** *Estudante de Sistemas de Informação*
